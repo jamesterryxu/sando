@@ -1,2 +1,2 @@
 # sando
-Structural Analysis Nonlinear Dynamic Optimization
+Structural Analysis for Nonlinear Dynamics & Optimization
